@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Musician Landing Page</title>
+</head>
+<body>
+    <header>
+        <h1>Musician Name</h1>
+        <img src="musician_photo.jpg" alt="Musician Photo">
+    </header>
+    <main>
+        <form action=https://crewbrewing.us20.list-manage.com/subscribe?u=0b7fc34496cb40edf90449b9a&id=55fe38fe2c method="POST">
+            <label for="email">Sign up for our newsletter:</label>
+            <input type="email" id="email" name="email" required>
+            <button type="submit">Sign Up</button>
+        </form>
+    </main>
+</body>
+</html>
